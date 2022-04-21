@@ -18,4 +18,4 @@ parse_git_branch() {
 }
 
 # Set the terminal PS1
-PS1="${BLUE}\w${GREEN}\$(parse_git_branch) ${RESET}$ "
+PS1="${GREEN}\h:${BLUE}\w${YELLOW}\$(parse_git_branch)${RESET}$ "
