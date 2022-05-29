@@ -34,3 +34,6 @@ alias py3='python3'
 alias pyrun='python3 -m'
 alias coverage='python3 -m coverage'
 alias pytest='python3 -m pytest'
+
+# Custom script aliases
+alias csfolder='~/.csfolder.py' # run csfolder script to generate files for CSE class
