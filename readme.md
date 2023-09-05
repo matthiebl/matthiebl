@@ -7,3 +7,9 @@ Lately I've been boggled by uni work, but have some ongoing projects:
  - An [expense tracker](https://expense.mhiebl.com) - [[Code]](https://github.com/matthiebl/expense-app)
  - A simple [todo app](https://todo.mhiebl.com) - [[Code]](https://github.com/matthiebl/todo-app)
  - Some [visualisations](https://matthiebl.github.io/visuals/) - and rendering [[Code]](https://github.com/matthiebl/visuals)
+
+I like tailwindcss... like a lot
+
+I like Typescript, but I love strongly typed languages even more (Ah Haskell...)
+
+And of course I like making React apps with Vite
